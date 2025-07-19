@@ -1,0 +1,2 @@
+#manguiat
+print("manguiat")
